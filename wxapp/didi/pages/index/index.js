@@ -15,6 +15,7 @@ Page({
       }
     ]
   },
+  
   showUser() {
     console.log(app);
     // 用户如果点击了授权， 就显示小家     如果没有， 则去登录

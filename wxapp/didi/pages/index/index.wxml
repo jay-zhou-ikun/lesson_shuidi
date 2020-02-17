@@ -15,6 +15,7 @@
       </view>
     </block>
   </scroll-view>
+  
   <!-- 单纯的跳转 -->
   <navigator url="/pages/carts/carts">
   <view class="nav-all">
