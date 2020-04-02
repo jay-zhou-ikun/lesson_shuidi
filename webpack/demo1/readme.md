@@ -25,3 +25,29 @@
    loader 能理解的地方, 去处理
    .vue js component 
 - loader 概念通过 css-loader!
+   !加loader
+- bundle.js 编译后的代码 分析一下
+   1. bundle 是一个立即执行函数
+   将所有的模块main.js 入口文件， buex, store, router, APP.vue
+   .....vue  element-ui css
+   函数有优势 第一行， 执行到最后一行
+   webpack 形参每个模块， 作为对象注入
+   
+   css 通过 css-loader! js css in js!!!
+   []
+   静态资源通过字符串来达到认同
+   - bundle.js webpack 打包生成的代码
+      立即执行函数，
+      将入口， 分析出来的依赖， 做成一个json 传给
+      bundle 函数去执行
+      main.js 他依赖于 index.css 
+      先做
+      main.js 依赖的文件名作为key: 内容作为value
+      webpack 大型工程， 首先解决的是模块间 的依赖
+      main.js a
+      index.css b
+      index.css import base.css c
+      entry a
+      c -> b -> a
+      文件依赖关系组成一个json object
+      __webpack_require__是require 的升级版

@@ -1,6 +1,6 @@
 // webpack 怎么在js 文件里 处理css 文件
 const css = require('css-loader!./index.css'); // {    }
-
+// const css = require('./index.css');
 // 并不是水火不相容的 css 属性节点 css 文本  js 文本
 // dom node 节点 tree , 再使用 css { width:, h:, color...}
 // {
