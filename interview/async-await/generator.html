@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        function foo() {
+            // setTimeout(() => {
+            //     console.log(1)
+            // }, 2000)
+            // return 'foo'
+            return new Promise((resolve) => {
+                setTimeout(() => {
+                    resolve(123);
+                }, 2000)
+            })
+        }
+
+        function* test() {
+            console.log('start');
+            let a = yield foo();
+            console.log('a', a);
+            // return true;
+            console.log('mid');
+            let b = yield 2;
+            console.log('b', b);
+            console.log('end')
+        }
+        // console.log(test());
+
+        // let g = test();
+        // console.log(g.next());
+        // a 的值可以通过 next 方法传递
+        // next 传递的参数：就是上一个yield 的返回值
+        // 插入新的任务：foo
+        // foo();
+        // console.log(g.next('A VALUE'));
+        // console.log(g.next('B VALUE'));
+        // generator 内部相比普通函数而言 是可以一步步被中止的
+        // 相比普通函数而言 调用的时候是 通过一步步的 next 来调用的
+
+        // 携程
+        function generatorAuto(gen) {
+            let g = gen();
+
+            function next(value) {
+                let res = g.next(value);
+                if (res.done) return;
+                next(res.value);
+            }
+            next();
+        }
+        generatorAuto(test);
+    </script>
+</body>
+
+</html>
