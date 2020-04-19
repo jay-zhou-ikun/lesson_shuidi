@@ -18,3 +18,22 @@
         config.js
     5. lib 把module 放在config 目录 一个文件一件事
       findSync 所有的js 文件 组成一个数组输出出来
+    6. 可拔插的webpack 
+    打包器 
+    - babel
+        js ts
+    - css 压缩 stylus -> css
+        postcss?
+    - htmltemplate
+
+    webpack 通过module 将编译的事务 可拔插的load 进相应的模块进行处理
+    webpack + 其他模块的生态链， 占据了工作流的生态位
+    webpack module 配置模块
+    在每个模块之中有配置的流程
+    1. test  /.js$/
+    2. loader
+    3. 配置项
+    webpack-chain js
+    ts 和 js 是一家的，ts 是 js 超集， 不用学就可以用了， 用的感觉
+    ts 有类型声明的js  降低js 出错率
+    
