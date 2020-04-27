@@ -1,0 +1,8 @@
+<view  class="container vertical centered">
+<view bindtap="tapGreeting">
+  <text class="header">{{ greeting }}</text>
+</view>
+</view>
+<view class="image">
+  <image src="/assets/images/landscape.jpg"></image>
+</view>

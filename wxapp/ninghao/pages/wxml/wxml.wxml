@@ -1,0 +1,16 @@
+<import src="../templates/header.wxml" />
+<view class="container vertical centered">
+
+    <template is="header" data="{{ ...header }}" />
+
+    <!-- <view wx:if="{{ header.show }}">
+        <text class="{{ header.class }}">{{ header.content ? header.content : "无标题"}}</text>
+    </view>
+    <view wx:else>
+        <text class="{{ header.class }}">无标题</text>
+    </view>
+    <view wx:for="{{fruits}}" class="item" wx:for-item="fruits">{{ index }}: {{ fruits }}</view> -->
+</view>
+<view class="image">
+    <image src="/assets/images/landscape.jpg"></image>
+</view>

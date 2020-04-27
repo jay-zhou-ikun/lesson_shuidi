@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/wxml/wxml",
+    "pages/index/index",
+    "pages/event/event"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "周末",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#ededed"
+  },
+  "tabBar": {
+    "color": "rgba(0,0,0,0.6)",
+    "selectedColor": "#000000",
+    "borderStyle": "white",
+    "backgroundColor": "#ededed",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "assets/icons/home.png",
+        "selectedIconPath": "assets/icons/home-active.png"
+      },
+      {
+        "text": "视图",
+        "pagePath": "pages/wxml/wxml",
+        "iconPath": "assets/icons/shop.png",
+        "selectedIconPath": "assets/icons/shop-active.png"
+      },
+      {
+        "text": "活动",
+        "pagePath": "pages/event/event",
+        "iconPath": "assets/icons/face.png",
+        "selectedIconPath": "assets/icons/face-active.png"
+      }
+    ]
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap68.json"
+}
