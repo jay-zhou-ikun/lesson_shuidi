@@ -1,0 +1,7 @@
+
+page {
+  background-color: #f8f8f8;
+}
+.section {
+  height: 25vh;
+}

@@ -1,0 +1,30 @@
+.section {
+  /* 相对单位 不管什么设备，响应用户 手机
+  100vh 占据整个高度  */
+  height: 50vh; /*等比划分*/
+  /* background-color: red; */
+}
+
+
+
+
+/* .userinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .userinfo-avatar {
+    width: 128rpx;
+    height: 128rpx;
+    margin: 20rpx;
+    border-radius: 50%;
+  }
+  
+  .userinfo-nickname {
+    color: #aaa;
+  }
+  
+  .usermotto {
+    margin-top: 200px;
+  } */

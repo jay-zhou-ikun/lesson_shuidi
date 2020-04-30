@@ -1,0 +1,25 @@
+<swiper class="section" indicator-dots="{{true}}">
+  <swiper-item wx:for="{{entities}}">
+  <image src="{{item.image}}" />
+  <view class="">
+    <view class="">
+    <view class=""></view>
+    <view class=""></view>
+    <view class=""></view>
+    </view>
+  </view>
+  </swiper-item>
+</swiper>
+
+<!-- 
+<view 
+wx:for="{{entities}}"
+class="media-box media-box_appmsg">
+  <view class="media-box__hd media-box__hd_in-appmsg">
+    <image class="media-box__thumb" src="{{item.imageUrl}}"> </image>
+  </view>
+  <view class="media-box__bd">
+    <view class="media-box__title">{{item.title}}</view>
+    <view class="media-box__desc">{{item.description}}</view>
+  </view>
+</view> -->
