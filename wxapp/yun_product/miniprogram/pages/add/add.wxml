@@ -1,0 +1,5 @@
+<View>
+    <vant-button type="primary" square block bind:click="addData">
+    新增数据
+    </vant-button>
+</View>
