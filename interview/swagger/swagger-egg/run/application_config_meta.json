@@ -1,0 +1,265 @@
+{
+  "keys": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\config\\config.default.js",
+  "session": {
+    "maxAge": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "dependencies": {
+      "egg": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "name": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "devDependencies": {
+      "mocha": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "dev": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\jackeyLove\\Desktop\\lesson_shuidi\\interview\\swagger\\swagger-egg\\node_modules\\egg\\config\\config.default.js"
+}
