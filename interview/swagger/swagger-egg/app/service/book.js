@@ -7,6 +7,7 @@ class BookService extends Service {
       this.database = this.ctx.model[this.tableName]; // 获取 model 下的表（ model 相当于数据库的表 ）。
   }
 
+  
   /**
    * 根据Id获取表信息。
    * @param {*} id 
