@@ -36,3 +36,16 @@ css
     3. 如何调试刚刚的bug p color
     定位p color 错误， style 代码很多, 你也忘了他在哪里
     webpack 帮我们定位错误 点一下就能跳到错误所在行
+
+
+    
+
+    react 全家桶(react-router redux )  + ts 
+    1. react 全家桶 vue 复杂     react-router-dom
+        一切皆组件  哪怕   router  redux
+        new Vue({
+            el: '#root',
+            router,
+            store
+        })
+        翻译成react 
