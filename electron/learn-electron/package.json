@@ -1,0 +1,15 @@
+{
+  "name": "learn-electron",
+  "version": "1.0.0",
+  "description": "1.  chrome navigatior.userAgent 为什么有mozilla 字段？\r     Mozilla 开拓了 浏览器内置devtool\r electron 是js 在exe 的应用， 学他对就业 TOP100公司，\r 前端效率部， \r 1. 跨平台  全端 \r 2. 滴滴 内部的即使通讯  ... \r 3. RN Flutter Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
