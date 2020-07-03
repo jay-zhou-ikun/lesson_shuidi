@@ -1,0 +1,59 @@
+<script>
+    // Array
+    // Function
+    // Object
+    // String
+    // Boolean
+    // ...。。
+
+    let obj = {}
+    let arr = [1,2,3] // 直接量 字面量
+
+    // function Object() {} // 函数
+    // Object.prototype
+    // function Function() {} // 函数
+    // Function.prototype
+    new Object()
+
+    // 对象由函数构造出来
+    Object.__proto__ === Function.prototype;
+    // 谁创造谁
+    Function.__proto__ === Function.prototype
+
+    // Object
+    // Function
+    // 鸡蛋问题
+    // instanceof: 右边构造的prototype有没有出现在左边这个原型链上
+    console.log(Object instanceof Function);
+    console.log(Function instanceof Object);
+    let arr = []
+    // arr.psuh arr.shift 来自Array.prototype
+    let obj = {}
+    // obj.has   来自于大写  Object.prototype
+    // function foo() {}
+    // foo.call
+    // foo.apply
+    // foo.bind
+    // 来自于
+    // Function.prototype
+
+    // 右边构造的prototype有没有出现在左边这个原型链上
+    function instance(obj, constructor) {
+        let prototype = constructor.prototype;
+        if (obj === prototype) return true;
+        let proto = obj.__proto__;
+        if (proto === null) {
+            return false;
+        }
+        return instance(prop, constructor)
+    }
+
+    function instance1(obj, constructor) {
+        let proto = obj.__proto__;
+        while (proto !== constructor.prototype) {
+            if (proto === null) return false;
+            proto = proto.__proto__
+        }
+        return true;
+    }
+</script>

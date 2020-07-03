@@ -1,0 +1,34 @@
+<script>
+    function Animal() {
+        this.live = 'land'
+        this.language = []
+    }
+    Animal.prototype.language = function() {}
+
+    function Person() {
+        // 继承属性
+        Animal.call(this);
+        this.eat = '';
+    }
+    // extends
+    // 用 new  特点
+    Person.prototype = new Animal()
+    // Person.prototype = 实例
+    // 实例.__proto__ = Animal.prototype;
+
+    let p = new Person();
+    console.log(p);
+    console.log(p.live)
+    console.log(p.language)
+
+    let p1 = new Person();
+    // p1 p 不同实例， 应该隔离起来， 互不影响， 各自有各自的属性
+    p.language.push('english')
+    console.log(p1);
+    // v1. 继承过来的属性会互相影响， 属性和方法同时继承
+
+    // v2 
+    // 属性和方法分开继承
+    // 1 继承属性
+
+</script>
