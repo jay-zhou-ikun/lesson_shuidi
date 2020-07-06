@@ -1,0 +1,12 @@
+{
+  "name": "webscoket",
+  "version": "1.0.0",
+  "description": "- http -> switch protocol tcp 链接不关闭\r 服务器端可以推送数据到客户端 \r webscoket解决的就是服务器端不能推送数据的问题\r wss: http https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
