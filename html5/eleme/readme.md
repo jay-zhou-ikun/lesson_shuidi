@@ -6,6 +6,7 @@
 
 npm init -y 初始化后端程序
 npm i json-server  启动json-server
+ npm run dev  npm run api    npm run styl
 
 - dom api 是过去式
   MVVM {{}}   js   data: 
@@ -31,6 +32,6 @@ npm i json-server  启动json-server
 
 - 图片， 手机的屏幕像素 
 @media 条件 (-webkit-min-device-pixel-ration:3)
-图片的命名   ... @2x.png   ...@3x.png
+图片的命名   ... @2x.png   ...@3x.pngw
 
 
